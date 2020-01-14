@@ -1,0 +1,10 @@
+seafood,16
+linepay,8
+Koreafish,4
+koreanfish,4
+korean fish,4
+korea fish,4
+Korea Fish,4
+Korean Fish,4
+KoreanFish,4
+KoreaFish,4
